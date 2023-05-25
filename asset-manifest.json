@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Zethic_Assignment_ReactApp/static/css/main.5c00813d.css",
+    "main.js": "/Zethic_Assignment_ReactApp/static/js/main.05708c1d.js",
+    "static/media/Rectangle127.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle127.933550476fb7a79dd0af.png",
+    "static/media/Rectangle67.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle67.c60f5457a737448e19a1.png",
+    "static/media/Rectangle152.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle152.aa9e6506982953650298.png",
+    "static/media/Rectangle66.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle66.ed79a1a71a8fe1eb55ed.png",
+    "static/media/Rectangle68.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle68.87a9e6683e7610866703.png",
+    "static/media/Rectangle134.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle134.6236746096ca7a292281.png",
+    "static/media/Rectangle133.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle133.991fd4afc24099abf02a.png",
+    "static/media/Rectangle143.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle143.9542e5ddcd6bd52172c1.png",
+    "static/media/Rectangle131.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle131.695022cf90294b0be635.png",
+    "static/media/Rectangle129.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle129.565797294d9c1ac43f17.png",
+    "static/media/Rectangle128.png": "/Zethic_Assignment_ReactApp/static/media/Rectangle128.4221b7b28efa984736e3.png",
+    "static/media/logo5.png": "/Zethic_Assignment_ReactApp/static/media/logo5.5eec33f2e46469f07fef.png",
+    "static/media/logo2.png": "/Zethic_Assignment_ReactApp/static/media/logo2.ad7ad3f63bf709855fc0.png",
+    "static/media/logo3.png": "/Zethic_Assignment_ReactApp/static/media/logo3.ef0a9f8176e05304e647.png",
+    "static/media/logo1.png": "/Zethic_Assignment_ReactApp/static/media/logo1.c72312d22b37eb3dc985.png",
+    "static/media/logo4.png": "/Zethic_Assignment_ReactApp/static/media/logo4.6150ded145e0a2d92fe5.png",
+    "static/media/Frame39.png": "/Zethic_Assignment_ReactApp/static/media/Frame39.d822dbedfe785cf5c508.png",
+    "index.html": "/Zethic_Assignment_ReactApp/index.html",
+    "static/media/Star1.svg": "/Zethic_Assignment_ReactApp/static/media/Star1.a9b4adbd43ac48ff73054b80eefc228a.svg",
+    "static/media/31.svg": "/Zethic_Assignment_ReactApp/static/media/31.9519f3397f34fbe3f63a7a69c4a26db5.svg",
+    "main.5c00813d.css.map": "/Zethic_Assignment_ReactApp/static/css/main.5c00813d.css.map",
+    "main.05708c1d.js.map": "/Zethic_Assignment_ReactApp/static/js/main.05708c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c00813d.css",
+    "static/js/main.05708c1d.js"
+  ]
+}
